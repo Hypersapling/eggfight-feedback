@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Computer (please complete the following information):**
- - OS: [e.g. iOS]
+ - OS: [e.g. MacOS, Windows 7, etc.]
  - Minecraft Version [e.g. 1.8.9, 1.15.2, 1.14 w/ optifine, etc.]
 
 **Additional context**
